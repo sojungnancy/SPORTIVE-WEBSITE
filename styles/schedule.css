@@ -308,6 +308,9 @@ footer span {
   background-color: black !important;
   z-index: 1050;
 }
+.dropdown-toggle {
+  background-color: black !important;
+}
 
 .dropdown-item {
   color: rgba(255, 255, 255, 0.761) !important;
