@@ -155,13 +155,14 @@ body {
   transform: translateY(-3px);
 }
 
-@media (max-width: 400px) {
-  .log-o {
-    display: none;
-  }
+.log-o {
+  color: black;
 }
 
 @media (max-width: 768px) {
+  .log-o {
+    color: white;
+  }
   .schedule-container {
     width: 95%;
     text-align: center;
