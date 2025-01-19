@@ -10,59 +10,6 @@ html {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-/* nav bar */
-
-.navbar-brand {
-  color: yellow !important;
-}
-
-.navbar {
-  padding: 0;
-}
-.navbar-brand {
-  font-size: 16px;
-  color: yellow;
-  font-weight: 700;
-  padding: 8px;
-  margin: 0;
-}
-.nav-link:hover {
-  color: yellow !important;
-}
-.container-fluid {
-  height: 60px;
-}
-.container-fluid {
-  background-color: black;
-}
-.nav-link {
-  color: white;
-  font-weight: 700;
-}
-.btn {
-  border: none;
-  background-color: #3d4549;
-  color: white;
-  margin: 0.2rem;
-  font-size: 14px;
-  font-weight: 700;
-}
-.btn-second {
-  background-color: #f9fafa;
-  color: black;
-}
-.img {
-  background-image: url('https://image.discovery.indazn.com/jp/v3/jp/none/1…51043000/fill/none/top/none/49/668/374/webp/image');
-}
-.main-login {
-  color: white;
-  text-decoration: none;
-}
-.main-signup {
-  color: black;
-  text-decoration: none;
-}
-
 @media (max-width: 996px) {
   .banner-image-text {
     z-index: 10;
