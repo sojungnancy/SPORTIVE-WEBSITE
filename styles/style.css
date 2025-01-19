@@ -843,3 +843,7 @@ footer span {
     display: none;
   }
 }
+
+.navbar-brand {
+  color: yellow !important;
+}
