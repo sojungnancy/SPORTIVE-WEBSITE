@@ -242,6 +242,14 @@ body {
     background-color: black !important;
     z-index: 1050;
   }
+
+  .btn-first {
+    display: none;
+  }
+
+  .btn-second {
+    display: none;
+  }
 }
 
 /* Footer */
@@ -307,9 +315,6 @@ footer span {
 .dropdown-menu {
   background-color: black !important;
   z-index: 1050;
-}
-.dropdown-toggle {
-  background-color: black !important;
 }
 
 .dropdown-item {
