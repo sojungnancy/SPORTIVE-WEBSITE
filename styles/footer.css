@@ -22,7 +22,9 @@
 }
 .dropdown-toggle {
   padding-bottom: 10px;
+  background-color: black !important;
 }
+
 .footer-first {
   display: flex;
   justify-content: space-around;
