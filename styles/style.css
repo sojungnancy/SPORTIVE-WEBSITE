@@ -838,7 +838,7 @@ footer span {
   cursor: pointer;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 990px) {
   .signup-btn {
     display: none;
   }
@@ -846,4 +846,8 @@ footer span {
 
 .navbar-brand {
   color: yellow !important;
+}
+
+.women {
+  padding-left: 10px;
 }

@@ -1,5 +1,4 @@
 body {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: black;
   color: white;
   padding: 0;
@@ -131,6 +130,16 @@ body {
   z-index: 9999; /* 화면 위에 표시되도록 설정 */
 }
 
+.container {
+  padding-left: 15px; /* 왼쪽 여백 */
+  padding-right: 15px; /* 오른쪽 여백 */
+}
+
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 /*카드 이미지들*/
 .card-img-top {
   width: 100%;
@@ -165,7 +174,9 @@ body {
     margin-right: 2rem;
   }
 }
-
+.custom_below_interview {
+  margin-left: 10px;
+}
 /*새로운 네브바*/
 
 /* Navbar */
@@ -179,6 +190,7 @@ body {
 }
 .navbar {
   padding: 0;
+  margin-bottom: 7px;
 }
 .navbar-brand {
   font-size: 1.2rem;
