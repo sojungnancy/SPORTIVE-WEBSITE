@@ -5,7 +5,7 @@ This project involved the **development of a responsive website** with a user-fr
 🔗 [Sportive Website](https://sportive-noona.netlify.app/)
 
 ## 🎯 Key Responsibilities
-- **Frontend Development**: Designed and implemented a fully responsive UI using **HTML & CSS**.
+- **Frontend Development**: Designed and implemented a fully responsive UI using **HTML & CSS (JavaScript)**.
 - **Project Leadership**: Led a team through an **Agile sprint**, ensuring timely delivery and smooth collaboration.
 - **UX/UI Design**: Focused on intuitive navigation and user-friendly interactions.
 - **Version Control**: Established and maintained adherence to **Git code conventions**, enhancing project efficiency and team synergy.
