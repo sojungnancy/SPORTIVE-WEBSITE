@@ -1,6 +1,4 @@
 # 📌 Sportive Website
-
-## 🏆 Project Overview
 This project involved the **development of a responsive website** with a user-friendly **UX/UI** using **HTML and CSS**. The project was completed **within a tight timeframe (4 days)**, requiring effective **time management and team collaboration**. The website was successfully deployed and adheres to modern **frontend development best practices**.
 
 ## 🌐 Deployed Version
