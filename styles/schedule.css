@@ -104,7 +104,9 @@ body {
   padding: 10px;
   cursor: pointer;
 }
-
+.navbar-collapse {
+  z-index: 9999;
+}
 .left {
   left: 10px;
 }
@@ -143,6 +145,7 @@ body {
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.3s, transform 0.3s ease;
+  z-index: 1;
 }
 
 .schedule-button-design i {
@@ -284,6 +287,11 @@ body {
 .dropdown-toggle {
   padding-bottom: 10px;
 }
+.dropdown-menu {
+  z-index: 1050 !important; /* Bootstrap 기본값보다 높게 설정 */
+  position: absolute !important;
+}
+
 .footer-first {
   display: flex;
   justify-content: space-around;

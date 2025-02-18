@@ -25,7 +25,9 @@
 .navbar-brand {
   color: yellow !important;
 }
-
+.navbar-nav {
+  z-index: 9999 !important;
+}
 .btn {
   border: none;
   background-color: #3d4549;
@@ -108,19 +110,23 @@
     display: none;
   }
   .carousel-caption {
-    display: block !important; /* 강제로 보이게 설정 */
+    display: block !important;
   }
   .banner-image-text {
     z-index: 10;
   }
+
   #navbarSupportedContent {
     background-color: black;
     margin: 0;
     padding: 0;
     z-index: 3;
   }
+  .navbar-collapse {
+    z-index: 10;
+  }
   .btn-outline-success {
-    display: none; /* signup 버튼 안보이게함함 */
+    display: none;
   }
   .login-no {
     display: block;

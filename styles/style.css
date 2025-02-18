@@ -71,6 +71,18 @@
   height: 460px;
   position: relative;
 }
+@media (max-width: 768px) {
+  .main-item {
+    height: 350px;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-item {
+    height: 0px;
+  }
+}
+
 .main-item::after {
   content: '';
   position: absolute;
@@ -873,4 +885,30 @@ footer span {
 
 .women {
   padding-left: 10px;
+}
+@media (max-width: 600px) {
+  .close-btn {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 440px) {
+  .close-btn {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    cursor: pointer;
+  }
+}
+
+.navbar {
+  z-index: 1050;
+  position: relative;
+}
+
+.dropdown-menu {
+  z-index: 1100 !important;
 }
