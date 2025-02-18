@@ -9,7 +9,7 @@ This project involved the **development of a responsive website** with a user-fr
 - **Project Leadership**: Led a team through an **Agile sprint**, ensuring timely delivery and smooth collaboration.
 - **UX/UI Design**: Focused on intuitive navigation and user-friendly interactions.
 - **Version Control**: Established and maintained adherence to **Git code conventions**, enhancing project efficiency and team synergy.
-
+- **Time management**: Successfully completed within a limited and tight timeframe, improving the project.
 
 ## 🔧 Technologies Used
 - **HTML**
